@@ -1,0 +1,2 @@
+
+nestjs: npx @nestjs/cli new nestjs-production-starter-kit

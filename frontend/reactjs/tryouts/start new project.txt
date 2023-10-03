@@ -1,0 +1,1 @@
+reactjs: npx create-react-app learn-reactjs-typescript --template typescript

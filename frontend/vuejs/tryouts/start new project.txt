@@ -1,0 +1,4 @@
+
+run this in terminal cli to start a new project:
+
+npm create vue@latest
